@@ -4,7 +4,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/wulfheart/laravel-mailto.svg?style=flat-square)](https://packagist.org/packages/wulfheart/laravel-mailto)
 
 
-Laravel-Mailto allows you to generate mailto-links with recipients, cc and bcc, subject and body. If an user clicks the link it opens the default mail editor prefilled with data.
+Laravel-Mailto allows you to generate mailto-links with recipients, cc and bcc, subject and body. If an user clicks the link it opens the default mail editor prefilled with data. This comes in handy if you want your users to have the ability to send emails from their own client. 
 
 
 ## Installation
