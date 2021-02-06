@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Wulfheart\LaravelMailto\Tests;
 
 class ExampleTest extends TestCase
 {
