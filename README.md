@@ -26,8 +26,8 @@ mailto("jeffrey@example.com")
 ->subject("Laravel")
 ->body("Hello Jeffrey,\n\nthis is a message.\n\nBest,\nAlex") 
 }}">
-            Send mail 📧
-        </a>
+    Send mail 📧
+</a>
 ```
 
 ## Result
